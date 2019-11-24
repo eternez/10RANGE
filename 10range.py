@@ -1,4 +1,4 @@
 import mcpi.minecraft as minecraft
 mc=minecraft.Minecraft.create()
-for i in range(10):    
+for i in range(20):    
     mc.postToChat("KapustinMaksim")
